@@ -1,4 +1,4 @@
-# Data-Analytics-Portfolio 
+# R Scripting Data-Analytics-Portfolio 
 A collection of data analytics projects showcasing my knowledge in R.
 # My Thesis:Trend analysis and forecasting of yearly temperature and rainfall in some African countries using Bayesian Autoregressive and Random walk models
 
